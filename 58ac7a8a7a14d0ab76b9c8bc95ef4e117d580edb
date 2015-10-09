@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+1: Major Hayden <major@mhtx.net>
+Code-Review+2: Matt Thompson <mattt@defunct.ca>
+Code-Review+2: Kevin Carter <kevin.carter@rackspace.com>
+Workflow+1: Kevin Carter <kevin.carter@rackspace.com>
+Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 Oct 2015 14:29:28 +0000
+Reviewed-on: https://review.openstack.org/232987
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
