@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Jesse Pretorius <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Matt Thompson <mattt@defunct.ca>
+Submitted-by: Jenkins
+Submitted-at: Sat, 10 Oct 2015 03:23:32 +0000
+Reviewed-on: https://review.openstack.org/233283
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
