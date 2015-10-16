@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Hugh Saunders <hugh@wherenow.org>
+Workflow+1: Hugh Saunders <hugh@wherenow.org>
+Code-Review+2: Matt Thompson <mattt@defunct.ca>
+Submitted-by: Jenkins
+Submitted-at: Fri, 16 Oct 2015 14:30:35 +0000
+Reviewed-on: https://review.openstack.org/232767
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
