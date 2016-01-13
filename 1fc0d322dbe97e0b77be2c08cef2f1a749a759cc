@@ -1,0 +1,9 @@
+Code-Review+2: Kevin Carter <kevin.carter@rackspace.com>
+Code-Review+2: Steve Lewis <steve.lewis@rackspace.com>
+Workflow+1: Steve Lewis <steve.lewis@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 13 Jan 2016 20:15:29 +0000
+Reviewed-on: https://review.openstack.org/267067
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
