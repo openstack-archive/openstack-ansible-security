@@ -1,0 +1,10 @@
+Code-Review+1: Amy Marrich (spotz) <amy.marrich@rackspace.com>
+Code-Review+2: Steve Lewis <steve.lewis@rackspace.com>
+Code-Review+2: Jesse Pretorius <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 20 Jan 2016 13:44:21 +0000
+Reviewed-on: https://review.openstack.org/269306
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
