@@ -1,0 +1,10 @@
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Matt Thompson <mattt@defunct.ca>
+Workflow+1: Matt Thompson <mattt@defunct.ca>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 25 Jan 2016 13:38:13 +0000
+Reviewed-on: https://review.openstack.org/270421
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
