@@ -1,0 +1,9 @@
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Code-Review+2: Kevin Carter <kevin.carter@rackspace.com>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 04 Mar 2016 10:07:09 +0000
+Reviewed-on: https://review.openstack.org/287905
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
