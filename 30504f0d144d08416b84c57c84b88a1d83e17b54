@@ -1,0 +1,8 @@
+Code-Review+2: Matt Thompson <mattt@defunct.ca>
+Workflow+1: Matt Thompson <mattt@defunct.ca>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 18 Apr 2016 08:22:34 +0000
+Reviewed-on: https://review.openstack.org/306977
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/mitaka
