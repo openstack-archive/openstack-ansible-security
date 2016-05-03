@@ -1,0 +1,9 @@
+Code-Review+2: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 May 2016 14:16:21 +0000
+Reviewed-on: https://review.openstack.org/311906
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/mitaka
