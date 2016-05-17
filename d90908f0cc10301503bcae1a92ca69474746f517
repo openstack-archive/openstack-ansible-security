@@ -1,0 +1,8 @@
+Code-Review+2: Hugh Saunders <hugh@wherenow.org>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 17 May 2016 11:03:52 +0000
+Reviewed-on: https://review.openstack.org/316869
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/liberty
