@@ -1,0 +1,9 @@
+Code-Review+2: Major Hayden <major@mhtx.net>
+Code-Review+2: Matt Thompson <mattt@defunct.ca>
+Workflow+1: Matt Thompson <mattt@defunct.ca>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 19 May 2016 13:14:26 +0000
+Reviewed-on: https://review.openstack.org/318596
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
