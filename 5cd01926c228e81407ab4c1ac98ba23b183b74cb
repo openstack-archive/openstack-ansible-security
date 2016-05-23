@@ -1,0 +1,9 @@
+Code-Review+2: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Code-Review+2: Major Hayden <major@mhtx.net>
+Workflow+1: Major Hayden <major@mhtx.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 23 May 2016 18:11:02 +0000
+Reviewed-on: https://review.openstack.org/319962
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
