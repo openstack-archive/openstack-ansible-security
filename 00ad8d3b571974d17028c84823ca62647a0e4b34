@@ -1,0 +1,9 @@
+Code-Review+2: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Code-Review+2: Hugh Saunders <hugh@wherenow.org>
+Workflow+1: Hugh Saunders <hugh@wherenow.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 25 May 2016 21:06:32 +0000
+Reviewed-on: https://review.openstack.org/320559
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/mitaka
