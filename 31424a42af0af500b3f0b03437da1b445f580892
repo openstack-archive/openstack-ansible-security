@@ -1,0 +1,9 @@
+Code-Review+2: Hugh Saunders <hugh@wherenow.org>
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Workflow+1: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 May 2016 20:34:21 +0000
+Reviewed-on: https://review.openstack.org/320993
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
