@@ -310,3 +310,15 @@
     - services
     - cat3
     - V-38676
+
+- name: V-38609 - The TFTP service must not be running
+  service:
+    name: "{{ tftp_service }}"
+    state: stopped
+    enabled: no
+  when:
+    - security_remove_tftp_server | bool
+  tags:
+    - services
+    - cat2
+    - V-38609
