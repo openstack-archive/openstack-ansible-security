@@ -173,3 +173,16 @@
     - kernel
     - cat2
     - V-38682
+
+
+- name: V-38511 - IPv4 forwarding must not be enabled
+  sysctl:
+    name: net.ipv4.ip_forward
+    value: 0
+    state: present
+    sysctl_set: yes
+  when: security_disable_ipv4_forwarding | bool
+  tags:
+    - kernel
+    - cat2
+    - V-38511
