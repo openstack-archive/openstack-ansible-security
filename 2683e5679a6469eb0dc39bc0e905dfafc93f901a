@@ -1,0 +1,9 @@
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Code-Review+2: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Workflow+1: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Jun 2016 18:16:47 +0000
+Reviewed-on: https://review.openstack.org/325376
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
