@@ -1,0 +1,9 @@
+Code-Review+2: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Workflow+1: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Jun 2016 20:33:50 +0000
+Reviewed-on: https://review.openstack.org/327657
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/mitaka
