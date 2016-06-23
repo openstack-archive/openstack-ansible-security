@@ -1,0 +1,11 @@
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Code-Review+1: Amy Marrich (spotz) <amy.marrich@rackspace.com>
+Code-Review+1: Robb Romans <robb7848@gapps.rackspace.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 23 Jun 2016 04:01:51 +0000
+Reviewed-on: https://review.openstack.org/332987
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/mitaka
