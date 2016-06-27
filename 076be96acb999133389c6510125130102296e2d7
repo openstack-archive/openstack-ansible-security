@@ -1,0 +1,11 @@
+Code-Review+1: Jean-Philippe Evrard <jean-philippe.evrard@rackspace.co.uk>
+Code-Review+1: Amy Marrich (spotz) <amy.marrich@rackspace.com>
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Code-Review+2: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 27 Jun 2016 10:12:42 +0000
+Reviewed-on: https://review.openstack.org/332983
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
