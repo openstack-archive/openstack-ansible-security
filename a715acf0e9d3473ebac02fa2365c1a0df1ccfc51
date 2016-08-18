@@ -1,0 +1,9 @@
+Code-Review+2: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 18 Aug 2016 16:37:18 +0000
+Reviewed-on: https://review.openstack.org/354768
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
