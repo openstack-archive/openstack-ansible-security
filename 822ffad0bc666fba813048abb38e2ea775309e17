@@ -1,0 +1,10 @@
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin.carter@rackspace.com>
+Code-Review+1: Victor Howard <victor.r.howard@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 19 Aug 2016 14:03:41 +0000
+Reviewed-on: https://review.openstack.org/357278
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
