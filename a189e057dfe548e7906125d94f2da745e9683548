@@ -1,0 +1,8 @@
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Workflow+1: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 23 Aug 2016 17:08:06 +0000
+Reviewed-on: https://review.openstack.org/359286
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
