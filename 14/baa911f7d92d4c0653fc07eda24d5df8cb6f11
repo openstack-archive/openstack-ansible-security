@@ -1,0 +1,9 @@
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Code-Review+2: Robb Romans (rromans) <robb.romans@rackspace.com>
+Workflow+1: Robb Romans (rromans) <robb.romans@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 10 Nov 2016 22:27:10 +0000
+Reviewed-on: https://review.openstack.org/395934
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
