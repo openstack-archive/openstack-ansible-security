@@ -1,0 +1,9 @@
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Jean-Philippe Evrard <jean-philippe.evrard@rackspace.co.uk>
+Workflow+1: Jean-Philippe Evrard <jean-philippe.evrard@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 18 Nov 2016 18:22:13 +0000
+Reviewed-on: https://review.openstack.org/399217
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
