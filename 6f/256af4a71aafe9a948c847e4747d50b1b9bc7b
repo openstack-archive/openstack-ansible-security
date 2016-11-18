@@ -1,0 +1,9 @@
+Code-Review+2: Robb Romans (rromans) <robb.romans@rackspace.com>
+Code-Review+2: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Workflow+1: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 18 Nov 2016 13:23:02 +0000
+Reviewed-on: https://review.openstack.org/397894
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
