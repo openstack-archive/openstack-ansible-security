@@ -1,0 +1,8 @@
+Code-Review+2: Logan V <logan2211@gmail.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 19 Nov 2016 03:46:34 +0000
+Reviewed-on: https://review.openstack.org/399740
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
