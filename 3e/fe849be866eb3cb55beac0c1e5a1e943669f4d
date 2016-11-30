@@ -1,0 +1,11 @@
+Code-Review+1: Robb Romans (rromans) <robb.romans@rackspace.com>
+Code-Review+1: Neill Cox <neill@ingenious.com.au>
+Code-Review+2: Travis Truman (automagically) <travis_truman@cable.comcast.com>
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Workflow+1: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 30 Nov 2016 22:25:01 +0000
+Reviewed-on: https://review.openstack.org/404425
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
