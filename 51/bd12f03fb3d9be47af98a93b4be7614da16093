@@ -1,0 +1,8 @@
+Code-Review+2: Alexandra Settle <a.settle@outlook.com>
+Workflow+1: Alexandra Settle <a.settle@outlook.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 01 Dec 2016 12:35:54 +0000
+Reviewed-on: https://review.openstack.org/405340
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
