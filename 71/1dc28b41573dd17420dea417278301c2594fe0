@@ -1,0 +1,10 @@
+Code-Review+2: Major Hayden <major@mhtx.net>
+Code-Review+1: weezer su <weezer.su@rackspace.com>
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 02 Dec 2016 16:29:13 +0000
+Reviewed-on: https://review.openstack.org/405874
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
