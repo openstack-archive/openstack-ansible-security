@@ -1,0 +1,10 @@
+Code-Review+2: Alexandra Settle <a.settle@outlook.com>
+Code-Review+1: Robb Romans (rromans) <robb.romans@rackspace.com>
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 03 Dec 2016 02:59:59 +0000
+Reviewed-on: https://review.openstack.org/405498
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
