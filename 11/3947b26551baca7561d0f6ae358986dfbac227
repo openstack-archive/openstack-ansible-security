@@ -1,0 +1,10 @@
+Code-Review+1: Neill Cox <neill@ingenious.com.au>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Major Hayden <major@mhtx.net>
+Workflow+1: Major Hayden <major@mhtx.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 05 Dec 2016 14:17:12 +0000
+Reviewed-on: https://review.openstack.org/406522
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
