@@ -1,0 +1,10 @@
+Code-Review+2: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Code-Review+1: Neill Cox <neill@ingenious.com.au>
+Code-Review+2: Robb Romans (rromans) <robb.romans@rackspace.com>
+Workflow+1: Robb Romans (rromans) <robb.romans@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 06 Dec 2016 23:18:36 +0000
+Reviewed-on: https://review.openstack.org/407613
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
