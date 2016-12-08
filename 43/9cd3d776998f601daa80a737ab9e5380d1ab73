@@ -1,0 +1,11 @@
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Code-Review+1: Michael Carden <mike.carden@gmail.com>
+Code-Review+1: Neill Cox <neill@ingenious.com.au>
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 08 Dec 2016 14:34:52 +0000
+Reviewed-on: https://review.openstack.org/407536
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
