@@ -1,0 +1,10 @@
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Code-Review+1: Catherine Richardson <catherine.richardson@rackspace.com>
+Code-Review+2: Robb Romans (rromans) <robb.romans@rackspace.com>
+Workflow+1: Robb Romans (rromans) <robb.romans@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 08 Dec 2016 19:22:35 +0000
+Reviewed-on: https://review.openstack.org/408666
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
