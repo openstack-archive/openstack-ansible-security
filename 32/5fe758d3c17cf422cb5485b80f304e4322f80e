@@ -1,0 +1,9 @@
+Code-Review+2: Logan V <logan2211@gmail.com>
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Workflow+1: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 Dec 2016 22:55:52 +0000
+Reviewed-on: https://review.openstack.org/407199
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
