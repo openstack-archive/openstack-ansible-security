@@ -1,0 +1,10 @@
+Code-Review+2: Logan V <logan2211@gmail.com>
+Code-Review+1: Neill Cox <neill@ingenious.com.au>
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 10 Dec 2016 22:14:36 +0000
+Reviewed-on: https://review.openstack.org/407724
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
