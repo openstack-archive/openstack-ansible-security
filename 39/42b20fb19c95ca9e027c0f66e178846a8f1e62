@@ -1,0 +1,11 @@
+Code-Review+2: David Wilde <david.wilde@rackspace.com>
+Code-Review+2: Hugh Saunders <hugh@wherenow.org>
+Workflow+1: Hugh Saunders <hugh@wherenow.org>
+Code-Review+2: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Workflow+1: Steve Lewis (stevelle) <steve.lewis@rackspace.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Jan 2017 21:03:45 +0000
+Reviewed-on: https://review.openstack.org/416269
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
