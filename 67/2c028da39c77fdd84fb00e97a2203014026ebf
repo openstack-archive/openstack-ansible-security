@@ -1,0 +1,10 @@
+Code-Review+2: David Wilde <david.wilde@rackspace.com>
+Code-Review+1: Amy Marrich (spotz) <amy@demarco.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 10 Jan 2017 09:38:06 +0000
+Reviewed-on: https://review.openstack.org/417447
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
