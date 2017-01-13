@@ -1,0 +1,10 @@
+Code-Review+2: Alexandra Settle <a.settle@outlook.com>
+Code-Review+1: Vitaliy Nogin <vnogin@mirantis.com>
+Code-Review+2: Major Hayden <major@mhtx.net>
+Workflow+1: Major Hayden <major@mhtx.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 13 Jan 2017 14:34:57 +0000
+Reviewed-on: https://review.openstack.org/417665
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
