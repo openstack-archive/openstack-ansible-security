@@ -1,0 +1,10 @@
+Code-Review+1: Marc Gariépy <gariepy.marc@gmail.com>
+Code-Review+2: Alexandra Settle <a.settle@outlook.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 13 Jan 2017 12:49:24 +0000
+Reviewed-on: https://review.openstack.org/419473
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
