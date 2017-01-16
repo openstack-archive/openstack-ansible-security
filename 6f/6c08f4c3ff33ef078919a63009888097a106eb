@@ -1,0 +1,10 @@
+Code-Review+1: Catherine Richardson <catherine.richardson@rackspace.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Alexandra Settle <a.settle@outlook.com>
+Workflow+1: Alexandra Settle <a.settle@outlook.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 16 Jan 2017 13:05:27 +0000
+Reviewed-on: https://review.openstack.org/418448
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
