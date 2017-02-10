@@ -1,0 +1,9 @@
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Code-Review+2: Marc Gariépy <gariepy.marc@gmail.com>
+Workflow+1: Marc Gariépy <gariepy.marc@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 10 Feb 2017 13:54:51 +0000
+Reviewed-on: https://review.openstack.org/430413
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
