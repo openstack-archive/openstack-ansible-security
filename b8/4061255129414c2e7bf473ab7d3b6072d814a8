@@ -1,0 +1,9 @@
+Code-Review+2: Major Hayden <major@mhtx.net>
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Workflow+1: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 12 Feb 2017 19:38:46 +0000
+Reviewed-on: https://review.openstack.org/432484
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
