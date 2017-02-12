@@ -1,0 +1,10 @@
+Code-Review+1: Michael Carden <mike.carden@gmail.com>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Workflow+1: Major Hayden <major@mhtx.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 12 Feb 2017 18:19:13 +0000
+Reviewed-on: https://review.openstack.org/430386
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
