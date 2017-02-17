@@ -1,0 +1,9 @@
+Code-Review+2: Amy Marrich (spotz) <amy@demarco.com>
+Code-Review+2: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 17 Feb 2017 20:43:57 +0000
+Reviewed-on: https://review.openstack.org/435557
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/ocata
