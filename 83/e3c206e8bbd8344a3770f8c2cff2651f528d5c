@@ -1,0 +1,10 @@
+Code-Review+1: wei zhao <zhaowei7146@fiberhome.com>
+Code-Review+2: Major Hayden <major@mhtx.net>
+Code-Review+2: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 01 Mar 2017 05:42:09 +0000
+Reviewed-on: https://review.openstack.org/438696
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/newton
