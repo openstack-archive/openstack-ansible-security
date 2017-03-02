@@ -1,0 +1,9 @@
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Logan V <logan2211@gmail.com>
+Workflow+1: Logan V <logan2211@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 02 Mar 2017 13:48:04 +0000
+Reviewed-on: https://review.openstack.org/440440
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
