@@ -1,0 +1,9 @@
+Code-Review+2: Marc Gariépy <gariepy.marc@gmail.com>
+Code-Review+2: Jean-Philippe Evrard <jean-philippe.evrard@rackspace.co.uk>
+Workflow+1: Jean-Philippe Evrard <jean-philippe.evrard@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 03 Mar 2017 21:11:05 +0000
+Reviewed-on: https://review.openstack.org/441340
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/ocata
