@@ -1,0 +1,9 @@
+Code-Review+2: Marc Gariépy <gariepy.marc@gmail.com>
+Code-Review+2: Jean-Philippe Evrard <jean-philippe.evrard@rackspace.co.uk>
+Workflow+1: Major Hayden <major@mhtx.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 04 Mar 2017 16:10:33 +0000
+Reviewed-on: https://review.openstack.org/441217
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
