@@ -1,0 +1,10 @@
+Code-Review+1: David Rabel <rabel@b1-systems.de>
+Code-Review+2: Major Hayden <major@mhtx.net>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 06 Mar 2017 15:54:34 +0000
+Reviewed-on: https://review.openstack.org/441655
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
