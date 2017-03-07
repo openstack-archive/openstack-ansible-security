@@ -1,0 +1,9 @@
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Code-Review+2: Amy Marrich (spotz) <amy@demarco.com>
+Workflow+1: Amy Marrich (spotz) <amy@demarco.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 07 Mar 2017 21:37:12 +0000
+Reviewed-on: https://review.openstack.org/442655
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
