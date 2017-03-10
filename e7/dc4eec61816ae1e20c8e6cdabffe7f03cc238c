@@ -1,0 +1,9 @@
+Code-Review+2: Major Hayden <major@mhtx.net>
+Code-Review+2: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Workflow+1: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 10 Mar 2017 12:28:58 +0000
+Reviewed-on: https://review.openstack.org/438033
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/ocata
