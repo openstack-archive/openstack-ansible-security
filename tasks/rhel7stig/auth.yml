@@ -451,7 +451,7 @@
   file:
     path: "{{ item.path }}"
     state: absent
-  with_items: "{{ shosts_find.files }}"
+  with_items: "{{ shosts_find.files | default([]) }}"
   when:
     - security_rhel7_remove_shosts_files | bool
     - shosts_find is defined

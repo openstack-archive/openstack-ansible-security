@@ -180,6 +180,7 @@
     enabled: yes
   when:
     - auditd_conf.stat.exists
+    - security_enable_audit_during_boot | bool
   tags:
     - high
     - auditd

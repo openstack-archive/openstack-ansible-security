@@ -84,23 +84,39 @@
     - sshd
     - V-72235
 
+- name: Search for public host key files
+  command: find /etc/ssh/ -type f -name \*.pub
+  args:
+    warn: no
+  register: public_host_key_files
+  changed_when: false
+  tags:
+    - sshd
+
 - name: Public host key files must have mode 0644 or less
   file:
     path: "{{ item }}"
     mode: "u-xX,g-wxs,o-wxt"
-  with_fileglob:
-    - /etc/ssh/*.pub
+  with_items: "{{ public_host_key_files.stdout_lines }}"
   tags:
     - medium
     - sshd
     - V-72255
 
+- name: Search for private host key files
+  command: find /etc/ssh/ -type f -name \*_key
+  args:
+    warn: no
+  register: private_host_key_files
+  changed_when: false
+  tags:
+    - sshd
+
 - name: Private host key files must have mode 0600 or less
   file:
     path: "{{ item }}"
     mode: "u-xX,g-rwxs,o-rwxt"
-  with_fileglob:
-    - /etc/ssh/*_key
+  with_items: "{{ private_host_key_files.stdout_lines }}"
   tags:
     - medium
     - sshd
