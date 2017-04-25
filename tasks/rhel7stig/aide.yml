@@ -93,7 +93,7 @@
     marker: "# {mark} MANAGED BY OPENSTACK-ANSIBLE-SECURITY"
     block: "{{ lookup('file', 'aide_extra.conf') }}"
   when:
-    - ansible_os_family | lower == 'ubuntu'
+    - ansible_os_family | lower == 'debian'
   tags:
     - low
     - aide
