@@ -1,0 +1,10 @@
+Code-Review+1: Mario Pranjic <mario@pranjic.no>
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Workflow+1: Jimmy McCrory <jimmy.mccrory@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 May 2017 18:15:50 +0000
+Reviewed-on: https://review.openstack.org/466495
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
