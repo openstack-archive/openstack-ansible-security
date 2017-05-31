@@ -48,12 +48,15 @@ stig_packages:
       - audispd-plugins
       - aide
       - aide-common
-      - chrony
       - debsums
       - logrotate
       - postfix
     state: "{{ security_package_state }}"
     enabled: True
+  - packages:
+      - chrony
+    state: "{{ security_package_state }}"
+    enabled: "{{ security_enable_chrony }}"
   - packages:
       - apparmor
       - apparmor-profiles
