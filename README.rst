@@ -10,6 +10,11 @@ Team and repository tags
 Security hardening for OpenStack-Ansible
 ----------------------------------------
 
+**DEPRECATION NOTICE:** The openstack-ansible-security role is deprecated and
+will be retired soon. Consumers of this role should use the
+`ansible-hardening <https://github.com/openstack/ansible-hardening>`_ role
+instead.
+
 Documentation for openstack-ansible-security is available in the `official
 OpenStack documentation site`_.
 

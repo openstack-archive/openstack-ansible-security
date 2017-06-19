@@ -1,6 +1,14 @@
 openstack-ansible-security
 ==========================
 
+**DEPRECATION NOTICE:** The openstack-ansible-security role is deprecated and
+will be retired soon. Consumers of this role should use the
+[ansible-hardening](https://github.com/openstack/ansible-hardening) role
+instead.
+
+Overview
+--------
+
 The openstack-ansible security role applies security hardening configurations
 from the [Security Technical Implementation Guide(STIG)](http://iase.disa.mil/stigs/Pages/index.aspx)
 to systems running Ubuntu 14.04, Ubuntu 16.04, CentOS 7, and Red Hat
