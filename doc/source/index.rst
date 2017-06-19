@@ -2,6 +2,13 @@
 Automated security hardening for Linux hosts
 ============================================
 
+.. warning::
+
+    The openstack-ansible-security role is deprecated and will be retired soon.
+    Consumers of this role should begin consuming the
+    `ansible-hardening <https://github.com/openstack/ansible-hardening>`_
+    role to receive the latest updates.
+
 The openstack-ansible-security Ansible role uses industry-standard security
 hardening guides to secure Linux hosts. Although the role is designed to work
 well in OpenStack environments that are deployed with OpenStack-Ansible, it can

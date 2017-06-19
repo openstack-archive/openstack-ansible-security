@@ -13,6 +13,41 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+  - name: Print warning about role deprecation
+    debug:
+      msg: |
+        *********************************************************************
+         ____                                _           _
+        |  _ \  ___ _ __  _ __ ___  ___ __ _| |_ ___  __| |
+        | | | |/ _ \ '_ \| '__/ _ \/ __/ _` | __/ _ \/ _` |
+        | |_| |  __/ |_) | | |  __/ (_| (_| | ||  __/ (_| |
+        |____/ \___| .__/|_|  \___|\___\__,_|\__\___|\__,_|
+                   |_|
+        *********************************************************************
+
+        The openstack-ansible-security role is deprecated and will be retired
+        soon. Please consume the ansible-hardening role to receive the latest
+        updates:
+
+           https://github.com/openstack/ansible-hardening
+
+        *********************************************************************
+         ____                                _           _
+        |  _ \  ___ _ __  _ __ ___  ___ __ _| |_ ___  __| |
+        | | | |/ _ \ '_ \| '__/ _ \/ __/ _` | __/ _ \/ _` |
+        | |_| |  __/ |_) | | |  __/ (_| (_| | ||  __/ (_| |
+        |____/ \___| .__/|_|  \___|\___\__,_|\__\___|\__,_|
+                   |_|
+        *********************************************************************
+    tags:
+      - always
+
+  - name: Pause the playbook run to highlight the deprecation warning
+    pause:
+      seconds: 30
+    tags:
+      - always
+
   - name: Gather variables for each operating system
     include_vars: "{{ item }}"
     with_first_found:
