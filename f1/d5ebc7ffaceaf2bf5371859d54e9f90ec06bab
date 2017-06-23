@@ -1,0 +1,9 @@
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+1: Nolan Brubaker <nolan.brubaker@rackspace.com>
+Workflow+1: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 23 Jun 2017 09:02:22 +0000
+Reviewed-on: https://review.openstack.org/475500
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/stable/ocata
