@@ -5,7 +5,7 @@ Automated security hardening for Linux hosts
 .. warning::
 
     The openstack-ansible-security role is deprecated and will be retired soon.
-    Consumers of this role should begin consuming the
+    Consumers of this role must consume the
     `ansible-hardening <https://github.com/openstack/ansible-hardening>`_
     role to receive the latest updates.
 
