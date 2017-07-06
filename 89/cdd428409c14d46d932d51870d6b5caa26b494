@@ -1,0 +1,9 @@
+Code-Review+2: Jesse Pretorius (odyssey4me) <jesse.pretorius@rackspace.co.uk>
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 06 Jul 2017 16:41:32 +0000
+Reviewed-on: https://review.openstack.org/480574
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
