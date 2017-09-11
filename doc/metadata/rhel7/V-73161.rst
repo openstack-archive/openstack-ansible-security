@@ -1,9 +1,0 @@
----
-id: V-73161
-status: exception - manual intervention
-tag: misc
----
-
-Deployers should review their NFS mounts to ensure they are mounted with the
-``noexec`` option. Deployers should skip this change if they execute
-applications from NFS mounts.
