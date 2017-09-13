@@ -1,0 +1,8 @@
+Code-Review+2: Andy McCrae <andy.mccrae@googlemail.com>
+Workflow+1: Andy McCrae <andy.mccrae@googlemail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 13 Sep 2017 16:41:14 +0000
+Reviewed-on: https://review.openstack.org/503742
+Project: openstack/openstack-ansible-security
+Branch: refs/heads/master
