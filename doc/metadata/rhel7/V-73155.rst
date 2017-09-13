@@ -1,9 +1,0 @@
----
-id: V-73155
-status: implemented
-tag: graphical
----
-
-This control is implemented by the tasks for another control:
-
-* :ref:`stig-V-71891`

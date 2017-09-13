@@ -1,5 +1,0 @@
----
-features:
-  - The audit rules added by the security role now have key fields that make
-    it easier to link the audit log entry to the audit rule that caused it to
-    appear.
