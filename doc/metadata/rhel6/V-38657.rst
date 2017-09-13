@@ -1,0 +1,8 @@
+---
+id: V-38657
+status: exception - manual intervention
+tag: services
+---
+
+Deployers are urged to require SMB client signing if they ever mount samba
+shares within their infrastructure.
